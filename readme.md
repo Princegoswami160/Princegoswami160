@@ -48,9 +48,6 @@ May 2025 – July 2025
 * Certified in Data Analytics (Microsoft & LinkedIn)
 
 ---
-
-### 📊 GitHub Stats
-
 ## 📊 Contribution Graph
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Princegoswami160)
