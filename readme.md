@@ -51,8 +51,9 @@ May 2025 – July 2025
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Princegoswami160&show_icons=true&theme=tokyonight&cache_seconds=86400)
+## 📊 Contribution Graph
 
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Princegoswami160)
  
 ---
 
