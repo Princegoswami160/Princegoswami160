@@ -19,7 +19,7 @@ Data Analyst | Python • SQL • Excel • Power BI
 * **[Vrinda Store Data Analysis (Excel)](https://github.com/Princegoswami160/Vrinda_Store_Analysis_Excel_Project)**
   → Dashboard using Pivot Tables, VLOOKUP & charts
 
-* **[Superstore Data Analysis]()**
+* **[Superstore Data Analysis](https://github.com/Princegoswami160/Superstore-Data-Analysis)**
   → Python + SQL + Power BI (9,000+ records)
 
 * **[Customer Behavior Analysis](https://github.com/Princegoswami160/Customer-Behavior)**
