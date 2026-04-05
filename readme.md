@@ -8,8 +8,8 @@ Data Analyst | Python • SQL • Excel • Power BI
 ### 👨‍💻 About Me
 
 * 📊 Data Analyst skilled in Python, SQL, Excel & Power BI
-* 📈 Experienced in analyzing datasets of 9,000+ records
-* 🧠 Focused on data cleaning, EDA & dashboard building
+* 📈 Experienced in analyzing datasets of 9,000+ records in Power BI and 38000+ records in Excel
+* 🧠 Focused on data cleaning, EDA & Interactive dashboard building
 * 🎯 Interested in solving real-world business problems
 
 ---
@@ -51,11 +51,12 @@ May 2025 – July 2025
 
 ### 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=Princegoswami160\&show_icons=true)
 
 ---
 
 ### 📫 Connect
 
 📧 [princekumargiri160@gmail.com](mailto:princekumargiri160@gmail.com)
+
 🔗 https://www.linkedin.com/in/prince-kumar-giri-450114331?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
