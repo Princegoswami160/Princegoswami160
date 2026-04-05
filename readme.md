@@ -17,7 +17,7 @@ Data Analyst | Python • SQL • Excel • Power BI
 ### 🚀 Projects
 
 * **[Vrinda Store Data Analysis (Excel)](https://github.com/Princegoswami160/Vrinda_Store_Analysis_Excel_Project)**
-  → Interactive Dashboard using Pivot Tables, VLOOKUP & charts
+  → Interactive Dashboard using Slicers, Pivot Tables, VLOOKUP & charts
 
 * **[Superstore Data Analysis](https://github.com/Princegoswami160/Superstore-Data-Analysis)**
   → Python + SQL + Power BI Interactive Dashboard (9,000+ records)
