@@ -51,7 +51,7 @@ May 2025 – July 2025
 
 ### 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Princegoswami160\&show_icons=true)
+https://github-readme-stats.vercel.app/api?username=Princegoswami160&show_icons=true&theme=tokyonight
 
 ---
 
