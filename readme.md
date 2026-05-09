@@ -8,7 +8,7 @@ Data Analyst | Python • SQL • Excel • Power BI
 ### 👨‍💻 About Me
 
 * 📊 Data Analyst skilled in Python, SQL, Excel & Power BI
-* 📈 Experienced in analyzing datasets of 9,000+ records in Power BI and 38000+ records in Excel
+* 📈 Experienced in analyzing datasets of 9,000+ records in Power BI and 31000+ records in Excel
 * 🧠 Focused on data cleaning, EDA & Interactive dashboard building
 * 🎯 Interested in solving real-world business problems
 
